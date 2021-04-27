@@ -59,6 +59,5 @@ setenforce 0
 ```
 ## STEP 6
 ### OPEN WORDPRESS IN BROWSER
-##### --> Use your instance public IP --> 
-Login with your credentials  --> Finally all done and now can start writing your blog!
+##### --> Use your instance public IP --> Login with your credentials  --> Finally all done and now can start writing your blog!
  
